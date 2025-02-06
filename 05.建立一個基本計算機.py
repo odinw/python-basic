@@ -1,4 +1,6 @@
 
+# https://youtu.be/D7R67Hh8wLA?si=K_hFr8pVZsfcLyW3
+
 name = input("請輸入名字: ")
 
 number1 = input("請輸入第一個加數: ");
